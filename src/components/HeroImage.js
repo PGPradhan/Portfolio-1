@@ -12,9 +12,9 @@ const HeroImage = () => {
     </div>
     <div className="content">
         
-        <p>HI I'M FREELANCER</p>
+        <h1>HI I'M</h1>
         <h1 >
-        <Typewriter text="React Developer" delay={100} infinite />
+        <Typewriter text="MERN Stack Developer" delay={100} infinite />
         </h1>
      
         <div>
