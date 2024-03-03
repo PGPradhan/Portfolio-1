@@ -11,7 +11,7 @@ const ProjectCardData = [
     },
     {
         imgsrc: pro2,
-        title: "Student Mangement System",
+        title: "Student Mangement System For Faculty",
         text: "Implemented a Student Management System using Tkinter for the UI, MySQL for the database, featuring a dual-portal system. This enabled teachers to input and manage report card details, while students accessed their reports on the Student portal.",
         view: "https://github.com/PGPradhan/StudentManagementSystem"
     },
